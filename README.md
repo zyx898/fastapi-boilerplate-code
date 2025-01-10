@@ -1,6 +1,5 @@
 # FastAPI Backend Template/Boilerplate 
-###Quick Start with FastAPI with MongoDB and Redis
-
+Quick Start with FastAPI with MongoDB and Redis
 
 ## Setup
 
